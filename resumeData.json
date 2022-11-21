@@ -1,0 +1,78 @@
+{
+  "main": {
+    "name": "Pathias Tafadzwa Ziyambi",
+    "occupation": "HyperionDev Graduate",
+    "description": "I am a dedicated individual and willing to learn ,Sovtech help me succeed in my Software development journey",
+    "image": "pathiasziyambi.jpg",
+    "bio": "My Name is Pathias, I'm a resourceful individual .Currently excelling in my software engineering program.I am dedicated and furious to learn",
+    "contactmessage": "SovTech, I am furious to learn and  grow.",
+    "email": "pathiasbell@gmail.com",
+    "phone": "+27 062134196",
+    "address": {
+      "city": "Johannesburg",
+      "state": "South Africa"
+    },
+    "resumedownload":"https://drive.google.com/file/d/1Y3lCbb4lPStwqfbjyjeAa7CgLiFqjFhs/view?usp=sharing ",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pathias-ziyambi-804962218/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/PathiasZiyambi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My skillset",
+    "education": [
+      {
+        "school": "HyperionDev",
+        "degree": "Software Engineering",
+        "graduating": "January 2023",
+        "description": "Currently 0n 98% Average"
+      }
+    ],
+    "work": [
+      {
+        "company": "Absa",
+        "title": "Treasury Custodian",
+        "years": "June 2017 - Jan 2022",
+        "description": "Responsible for Treasury and ATMs"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "25%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "CSS3",
+        "level": "20%"
+      },
+      {
+        "name": "Java",
+        "level": "43%"
+      },
+      {
+        "name": "Git",
+        "level": "20%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I am interested in this Software engineering internship in order to better prepare myself for future career jobs.This internship would give the great opportunity for my professional development by further diversifying my skillset,challenge me and overall giving me a new perspective outside school setting."
+      
+      }
+    ]
+  }
+}
